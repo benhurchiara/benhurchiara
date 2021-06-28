@@ -4,7 +4,7 @@ My name is Ben Hur de Chiara Silva, I'm from Brazil 🇧🇷.
 
 I study systems analysis and development at the Federal Institute of São Paulo.
 
-I'm interested in cyber security, Penetration test, Digital Forensics and Redhat...👨🏻‍💻⛓📈
+I'm interested in Cyber Security, Penetration test, Digital Forensics and Redhat...👨🏻‍💻⛓📈
 
 I’m currently learning Web Development, JavaScrypt, english and computer architecture in my Institute.👨‍🎓
 
