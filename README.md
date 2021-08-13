@@ -13,9 +13,9 @@ I’m currently learning Web Development, JavaScrypt, english and computer archi
 * Linux System Administration: 4Linux Open SOFTWARE SPECIALIST 
 * Linux SysAdmin - Security Instituição: 4Linux Open SOFTWARE SPECIALIST 
 * Banco de Dados Instituição: Centro Paula Souza 
+ * Pen Test: Técnicas de Intrusão em Redes Corporativas: 4Linux Open SOFTWARE SPECIALIST
 
 ### Courses to Complete
-* Pen Test: Técnicas de Intrusão em Redes Corporativas: 4Linux Open SOFTWARE SPECIALIST
 * Segurança em Servidores Linux: 4Linux Open SOFTWARE SPECIALIST
 * Técnicas de Computação Forense: 4Linux Open SOFTWARE SPECIALIST
  
